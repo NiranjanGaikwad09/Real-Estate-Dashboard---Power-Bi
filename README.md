@@ -5,3 +5,10 @@ Analyzes a portfolio of 100 commercial/residential properties across major U.S. 
 
 Data sources: three cleaned CSV files
 
+Files :
+
+Income Expenses - It has - PropertyID ||	Date || RentalIncome || Expenses
+
+Leases - It has - PropertyID || Tenant || LeaseStart || LeaseEnd  || Occupancy
+
+Properties - It has - PropertyID || PropertyName || City	Type || PurchasePrice || MarketValue
